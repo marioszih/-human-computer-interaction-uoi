@@ -13,5 +13,5 @@ https://drive.google.com/file/d/13U8tUQQta8azp41WwziA3qz9MwFPUduz/view?ts=60ba21
 ## Credits
 Andreas Theodorakopoulos</br>
 Marios Zixnalis</br>
-Eleni Mouzaki</br>
-Panagiotis Papaioannou</br>
+Eleni Mouzaki  https://github.com/mouzmouz</br>
+Panagiotis Papaioannou  https://github.com/ppapaioannou
